@@ -1,4 +1,4 @@
-package org.program.discoveryserver;
+package com.program.discoveryserver;
 
 
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package org.program.discoveryserver.config;
+package com.program.discoveryserver.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
